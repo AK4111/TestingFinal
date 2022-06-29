@@ -65,8 +65,6 @@ Note:- Give a user details
 
 •/whois :-give a user full details"""
     
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/AakashOfficialz><b>Aakash Official</b></a>"""
-    
     FUN_TXT ="""<b>Gᴀᴍᴇs</b> 
     
 <b>⚡ 𝙹𝚄𝚂𝚃 𝚂𝙾𝙼𝙴 𝙺𝙸𝙽𝙳 𝙾𝙵 𝙵𝚄𝙽 𝚃𝙷𝙸𝙽𝙶'𝚂 ⚡</b>
