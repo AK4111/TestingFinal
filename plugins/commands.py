@@ -50,11 +50,6 @@ async def start(client, message):
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
             ],[
             InlineKeyboardButton('🔥 ᏞᏆᑎᏦ ᏀᗴᑎᗴᖇᗩᎢᝪᖇ 🔥', url='https://t.me/File_To_Link_Autobot')
-            ],[
-            InlineKeyboardButton(' ꜰᴀᴄᴇʙᴏᴏᴋ ', url='https://www.facebook.com/badsha.shek.944'),
-            InlineKeyboardButton(' ɪɴsᴛᴀɢʀᴀᴍ ', url='https://www.instagram.com/badsha.shek.944')
-            ],[
-            InlineKeyboardButton('✅ SUBSCᏒIBΞ  ✅', url='https://youtube.com/channel/UCFjqpS7MmN42sybrG0Vr0NQ')
         ]]         
         reply_markup = InlineKeyboardMarkup(buttons)        
         await message.reply_photo(
