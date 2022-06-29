@@ -83,7 +83,7 @@ Note:- Give a user details
 
 <b>𝚂𝙷𝙰𝚁𝙴 𝙰𝙽𝙳 𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴</b>
 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/AakashOfficialz><b>Aakash Official</b></a>"""
-    MANUELFILTER_TXT = """Help: <b>Filters</b>
+    MANUALFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and AK PRO will respond whenever a keyword is found the message
 
