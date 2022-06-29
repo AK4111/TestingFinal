@@ -11,7 +11,7 @@ from plugins.helper_functions.cust_p_filters import f_onw_fliter
 ALIVE = "ʏᴇs ɪ ᴀᴍ ᴀʟɪᴠᴇ 🥱 ᴍʏ ʟɪꜰᴇ ɪs ɴᴏᴛ ᴇᴀsʏ , ᴇᴠᴇʀʏ ᴛɪᴍᴇ ᴇᴠᴇʀʏ sᴇᴄᴇɴᴅ ɪ ʜᴀᴠᴇ ᴛᴏ ᴀᴄᴄᴇᴘᴛ ᴡɪsʜᴇs ᴏꜰ ᴍᴀɴʏ ᴘᴇᴏᴘʟᴇ 😇" 
 REPO = "<b>ʀᴇᴘᴏ ᴘʀɪᴄᴇ ɪs 2.5ᴋ ... ᴄᴏɴᴛᴀᴄᴛ ›› https://t.me/PAY_FOR_BOTS</b>"
 CHANNEL = "<b>𝚈𝙾𝚄𝚃𝚄𝙱𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻<b>𝚄𝙿𝙳𝙰𝚃𝙴𝚂 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› https://t.me/Moviez_Express_Official</b>\n\n<b>ɢʀᴏᴜᴘ ›› https://t.me/Movie_Maker_Backup</b>"
-AK PRO = "<b>𝙱𝙾𝚃 ›› https://t.me/AakashPro_bot</b>"
+AAKASH = "<b>𝙱𝙾𝚃 ›› https://t.me/AakashPro_bot</b>"
 # -- Constants End -- #
 
 
