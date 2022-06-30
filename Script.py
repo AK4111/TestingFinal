@@ -171,9 +171,7 @@ Do as you wish with telegra.ph module!
 • This Command Is Available in goups and pms
 • This Command Can be used by everyone"""
 
-    UPDATES_TXT = """<b>THIS IS THE MOST POWERFUL AUTO FILTER BOT WITH MORE LOVING 😍 FEATURES. 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂 𝙰𝙽𝙳 𝚂𝙾𝙽𝙶𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈 😍.</b>
- 
-<b>›› NEED HELP :- <a href=https://t.me/AakashPro_bot?start=help>HELP</a></b>"""
+    UPDATES_TXT = """<b>THIS IS THE MOST POWERFUL AUTO FILTER BOT WITH MORE LOVING 😍 FEATURES. 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂 𝙰𝙽𝙳 𝚂𝙾𝙽𝙶𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈 😍.</b>"""
 
     JSON_TXT ="""<b>JSON:</b>
 
