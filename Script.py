@@ -171,11 +171,13 @@ Do as you wish with telegra.ph module!
 • This Command Is Available in goups and pms
 • This Command Can be used by everyone"""
 
-    PRIVATEBOT_TXT = """<b>𝙿𝚁𝙸𝚅𝙰𝚃𝙴 𝙱𝙾𝚃 𝙵𝙾𝚁 𝚈𝙾𝚄</b>
-<b>›› 𝙳𝙾 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝙰 𝙱𝙾𝚃 𝚂𝙰𝙼𝙴 𝙻𝙸𝙺𝙴 𝚃𝙷𝙸𝚂</b>
-<b>›› 𝚆𝙸𝚃𝙷 𝙰𝙻𝙻 𝚈𝙾𝚄𝚁 𝙲𝚁𝙴𝙳𝙸𝚃𝚂</b>
-<b>›› 𝚆𝙸𝚃𝙷 𝚈𝙾𝚄𝚁 𝙾𝚆𝙽𝙴𝚁𝚂𝙷𝙸𝙿</b>
-<b>›› 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙼𝙴 <a href=https://t.me/PAY_FOR_BOTS>𝙱𝙾𝚃 𝚂𝙰𝙻𝙴𝚁</a></b>"""
+    UPDATES_TXT = """<b>THIS IS THE MOST POWERFUL AUTO FILTER BOT WITH MORE LOVING 😍 FEATURES.SOME FEATURES LIKE :-</b>
+<b>›› AUTOFILTER :- YOU CAN TURN ON OR OFF AUTOFILTER OPTION IN GROUP AND PM.</b>
+<b>›› NO INLINE MODE :- IN THIS FEATURE JUST WRITE THE MOVIE NAME IN PM YOU WILL GET THE MOVIE.</b>
+<b>›› SONGS :- IN THIS FEATURE YOU CAN GET THE SONGS.</b>
+<b>›› YOUTUBE :- IN THIS FEATURE YOU CAN GET THE YOUTUBE VIDEO AND THUMBNAIL OF YOUTUBE VIDEO.</b>
+<b>›› FOR MORE DESCRIPTION OF OUR FEATURE SEND /help IN PM OR GROUP YOU WILL GET TO KNOW MORE ABOUT ME.</b>
+<b>›› UPDATES <a href=https://t.me/Moviez_Express_Official>MOVIES EXPRESS</a></b>"""
 
     JSON_TXT ="""<b>JSON:</b>
 
