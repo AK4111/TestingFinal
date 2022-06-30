@@ -171,21 +171,9 @@ Do as you wish with telegra.ph module!
 • This Command Is Available in goups and pms
 • This Command Can be used by everyone"""
 
-    UPDATES_TXT = """<b>THIS IS THE MOST POWERFUL AUTO FILTER BOT WITH MORE LOVING 😍 FEATURES.</b>
-    
-<b>›› SOME FEATURES LIKE :-</b>
-
-<b>›› AUTOFILTER :- YOU CAN TURN ON OR OFF AUTOFILTER OPTION IN GROUP AND PM.</b>
-
-<b>›› NO INLINE MODE :- IN THIS FEATURE JUST WRITE THE MOVIE NAME IN PM YOU WILL GET THE MOVIE. BUT WE HAVE KEEP INLINE MODE ON.</b>
-
-<b>›› SONGS :- IN THIS FEATURE YOU CAN GET THE SONGS.  AND WORKS ONLY IN GROUP </b>
-
-<b>›› YOUTUBE :- IN THIS FEATURE YOU CAN GET THE YOUTUBE VIDEO AND THUMBNAIL OF YOUTUBE VIDEO.</b>
-
-<b>›› FOR MORE DESCRIPTION OF OUR FEATURE SEND /help IN PM OR GROUP YOU WILL GET TO KNOW MORE ABOUT ME.</b>
-
-<b>›› OFFICIAL OWNER <a href=https://t.me/AakashOfficialz>AAKASH OFFICIAL</a></b>"""
+    UPDATES_TXT = """<b>THIS IS THE MOST POWERFUL AUTO FILTER BOT WITH MORE LOVING 😍 FEATURES. 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂 𝙰𝙽𝙳 𝚂𝙾𝙽𝙶𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈 😍.</b>
+ 
+<b>›› NEED HELP :- <a href=https://t.me/AakashPro_bot?start=help>HELP</a></b>"""
 
     JSON_TXT ="""<b>JSON:</b>
 
