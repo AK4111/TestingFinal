@@ -23,9 +23,9 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('UPDATES', url=f"https://t.me/Moviez_Express_Official")
+                InlineKeyboardButton('🤖 UPDATES', url=f"https://t.me/Moviez_Express_Official")
             ],[
-                InlineKeyboardButton('HELP', url=f"https://t.me/AakashPro_bot?start=help")
+                InlineKeyboardButton('ℹ️ HELP', url=f"https://t.me/AakashPro_bot?start=help")
             ]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
